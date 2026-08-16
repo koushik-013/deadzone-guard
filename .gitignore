@@ -1,1 +1,17 @@
 ML python server/firebase_key.json
+ML python server/firebase_key.json
+**/build/
+**/.dart_tool/
+**/.idea/
+**/__MACOSX/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.packages
+ML python server/firebase_key.json
+**/google-services.json
+**/GoogleService-Info.plist
+**/*.pkl
+**/label_encoder.pkl
+**/GoogleService-Info.plist
+**/google-services.json
+**/deadzone_guard_model.pkl
