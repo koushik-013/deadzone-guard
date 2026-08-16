@@ -15,3 +15,4 @@ ML python server/firebase_key.json
 **/GoogleService-Info.plist
 **/google-services.json
 **/deadzone_guard_model.pkl
+**/label_encoder.pkl
