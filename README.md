@@ -314,7 +314,7 @@ This system was presented at:
 > **DeadZone Guard: An ESP-MESH and Machine Learning-Based Multi-Sensor Safety Monitoring System with Real-Time Mobile and Bangla Voice Alerts**
 > Koushik Biswas et al.
 > Department of Internet of Things and Robotics Engineering
-> Bangabandhu Sheikh Mujibur Rahman Digital University, Bangladesh
+> University of Frontier Technology, Bangladesh
 
 ---
 
@@ -323,8 +323,8 @@ This system was presented at:
 | Member | Role |
 |---|---|
 | Koushik Biswas | Hardware, ESP32 Mesh, ML Server |
-| [Teammate 2] | Flutter App, Firebase |
-| [Teammate 3] | ML Training, Paper Writing |
+| Koushik Biswas | Flutter App, Firebase |
+| Koushik Biswas | ML Training, Paper Writing |
 
 ---
 
