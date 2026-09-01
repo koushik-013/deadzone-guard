@@ -311,7 +311,7 @@ Flutter App — 10s continuous DANGER?
 
 This system was presented at:
 
-> **DeadZone Guard: An ESP-MESH and Machine Learning-Based Multi-Sensor Safety Monitoring System with Real-Time Mobile and Bangla Voice Alerts**
+> **DeadZone Guard: An ESP-MESH and Machine Learning-Based Multi-Sensor Industrial Safety Monitoring System with Real-Time Mobile and Bangla Voice Alerts**
 > Koushik Biswas et al.
 > Department of Internet of Things and Robotics Engineering
 > University of Frontier Technology, Bangladesh
